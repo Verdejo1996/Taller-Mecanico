@@ -1,0 +1,17 @@
+C:\Users\santi\source\repos\Challenge1\BLL\bin\Debug\netstandard2.0\BLL.deps.json
+C:\Users\santi\source\repos\Challenge1\BLL\bin\Debug\netstandard2.0\BLL.dll
+C:\Users\santi\source\repos\Challenge1\BLL\bin\Debug\netstandard2.0\BLL.pdb
+C:\Users\santi\source\repos\Challenge1\BLL\obj\Debug\netstandard2.0\BLL.csproj.AssemblyReference.cache
+C:\Users\santi\source\repos\Challenge1\BLL\obj\Debug\netstandard2.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\source\repos\Challenge1\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfoInputs.cache
+C:\Users\santi\source\repos\Challenge1\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfo.cs
+C:\Users\santi\source\repos\Challenge1\BLL\obj\Debug\netstandard2.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\santi\source\repos\Challenge1\BLL\obj\Debug\netstandard2.0\BLL.dll
+C:\Users\santi\source\repos\Challenge1\BLL\obj\Debug\netstandard2.0\BLL.pdb
+C:\Users\santi\source\repos\Challenge1\BLL\bin\Debug\netstandard2.0\Datos.dll
+C:\Users\santi\source\repos\Challenge1\BLL\bin\Debug\netstandard2.0\EE.dll
+C:\Users\santi\source\repos\Challenge1\BLL\bin\Debug\netstandard2.0\MPP.dll
+C:\Users\santi\source\repos\Challenge1\BLL\bin\Debug\netstandard2.0\EE.pdb
+C:\Users\santi\source\repos\Challenge1\BLL\bin\Debug\netstandard2.0\MPP.pdb
+C:\Users\santi\source\repos\Challenge1\BLL\bin\Debug\netstandard2.0\Datos.pdb
+C:\Users\santi\source\repos\Challenge1\BLL\obj\Debug\netstandard2.0\BLL.csproj.CopyComplete

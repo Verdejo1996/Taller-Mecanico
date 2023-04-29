@@ -1,0 +1,15 @@
+C:\Users\santi\source\repos\Challenge1\MPP\bin\Debug\netstandard2.0\MPP.deps.json
+C:\Users\santi\source\repos\Challenge1\MPP\bin\Debug\netstandard2.0\MPP.dll
+C:\Users\santi\source\repos\Challenge1\MPP\bin\Debug\netstandard2.0\MPP.pdb
+C:\Users\santi\source\repos\Challenge1\MPP\bin\Debug\netstandard2.0\Datos.dll
+C:\Users\santi\source\repos\Challenge1\MPP\bin\Debug\netstandard2.0\EE.dll
+C:\Users\santi\source\repos\Challenge1\MPP\bin\Debug\netstandard2.0\Datos.pdb
+C:\Users\santi\source\repos\Challenge1\MPP\bin\Debug\netstandard2.0\EE.pdb
+C:\Users\santi\source\repos\Challenge1\MPP\obj\Debug\netstandard2.0\MPP.csproj.AssemblyReference.cache
+C:\Users\santi\source\repos\Challenge1\MPP\obj\Debug\netstandard2.0\MPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\source\repos\Challenge1\MPP\obj\Debug\netstandard2.0\MPP.AssemblyInfoInputs.cache
+C:\Users\santi\source\repos\Challenge1\MPP\obj\Debug\netstandard2.0\MPP.AssemblyInfo.cs
+C:\Users\santi\source\repos\Challenge1\MPP\obj\Debug\netstandard2.0\MPP.csproj.CoreCompileInputs.cache
+C:\Users\santi\source\repos\Challenge1\MPP\obj\Debug\netstandard2.0\MPP.csproj.CopyComplete
+C:\Users\santi\source\repos\Challenge1\MPP\obj\Debug\netstandard2.0\MPP.dll
+C:\Users\santi\source\repos\Challenge1\MPP\obj\Debug\netstandard2.0\MPP.pdb

@@ -1,0 +1,10 @@
+C:\Users\santi\source\repos\Challenge1\EE\bin\Debug\netstandard2.0\EE.deps.json
+C:\Users\santi\source\repos\Challenge1\EE\bin\Debug\netstandard2.0\EE.dll
+C:\Users\santi\source\repos\Challenge1\EE\bin\Debug\netstandard2.0\EE.pdb
+C:\Users\santi\source\repos\Challenge1\EE\obj\Debug\netstandard2.0\EE.csproj.AssemblyReference.cache
+C:\Users\santi\source\repos\Challenge1\EE\obj\Debug\netstandard2.0\EE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\source\repos\Challenge1\EE\obj\Debug\netstandard2.0\EE.AssemblyInfoInputs.cache
+C:\Users\santi\source\repos\Challenge1\EE\obj\Debug\netstandard2.0\EE.AssemblyInfo.cs
+C:\Users\santi\source\repos\Challenge1\EE\obj\Debug\netstandard2.0\EE.csproj.CoreCompileInputs.cache
+C:\Users\santi\source\repos\Challenge1\EE\obj\Debug\netstandard2.0\EE.dll
+C:\Users\santi\source\repos\Challenge1\EE\obj\Debug\netstandard2.0\EE.pdb
